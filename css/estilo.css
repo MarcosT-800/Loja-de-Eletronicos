@@ -1,0 +1,27 @@
+body{
+	background-color: #FF7F00; /* Cor do Fundo do site*/
+}
+#topo{
+	height: 350px;
+}
+#banner{
+	padding-top: 20px; /* Dá espaço entre o banner e o topo*/
+	height: 300px; /*determina a altura da área do conteúdo de um elemento*/
+}
+#card{
+	padding-top: 20px; /* Dá espaço entre o banner e o card*/
+	height: 200px;
+}
+
+#card1{
+	padding-top: 20px; /* Dá espaço entre o banner e o card*/
+	height: 200px;
+}
+#card2{
+	padding-top: 20px;  /* Dá espaço entre o banner e o card*/
+	height: 200px;
+}
+#card3{
+	padding-top: 20px; /* Dá espaço entre o banner e o card*/
+	height: 200px;
+}
